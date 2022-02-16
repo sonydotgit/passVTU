@@ -26,7 +26,7 @@ params:
   homeMetaContent: A Website containing learning resources for vtu students.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  navTitleLink: /passVTU/
+  navTitleLink: /
 
 menu:
   nav:
