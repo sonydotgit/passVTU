@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PassVTU</title>
+    <link>https://passvtu.tk/</link>
+    <description>Recent content on PassVTU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Feb 2022 23:53:17 +0530</lastBuildDate><atom:link href="https://passvtu.tk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://passvtu.tk/projects/</link>
+      <pubDate>Thu, 17 Feb 2022 00:30:30 +0530</pubDate>
+      
+      <guid>https://passvtu.tk/projects/</guid>
+      <description>UNDER DEVELOPMENT</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://passvtu.tk/about/</link>
+      <pubDate>Thu, 17 Feb 2022 00:27:08 +0530</pubDate>
+      
+      <guid>https://passvtu.tk/about/</guid>
+      <description>Notes for reference.
+By reading all the content provided in the notes, the individual can pass this sem exam without any problemos. If the force is strong with him/her he can even top the exam ;)
+Made with love by SOHAN.
+Open for contributions on Github</description>
+    </item>
+    
+    <item>
+      <title>ATC</title>
+      <link>https://passvtu.tk/atc/</link>
+      <pubDate>Wed, 16 Feb 2022 23:53:17 +0530</pubDate>
+      
+      <guid>https://passvtu.tk/atc/</guid>
+      <description>Hit the brakes, you&amp;rsquo;re going too fast!</description>
+    </item>
+    
+    <item>
+      <title>Dbms</title>
+      <link>https://passvtu.tk/dbms/</link>
+      <pubDate>Wed, 16 Feb 2022 23:50:33 +0530</pubDate>
+      
+      <guid>https://passvtu.tk/dbms/</guid>
+      <description>Read Computer Networks first!</description>
+    </item>
+    
+    <item>
+      <title>Computer Networks</title>
+      <link>https://passvtu.tk/cn/</link>
+      <pubDate>Wed, 16 Feb 2022 23:17:42 +0530</pubDate>
+      
+      <guid>https://passvtu.tk/cn/</guid>
+      <description>The notes is available in both web view and pdf view but I recommend using pdf view.
+Answer Sources:
+ Notes uploaded in Gclassroom by Arun Sir. Computer Networks by James F. Kurose and Keith W. Ross  Module-1 web | pdf   </description>
+    </item>
+    
+  </channel>
+</rss>
