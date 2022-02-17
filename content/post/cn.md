@@ -6,7 +6,7 @@ date: 2022-02-16T23:17:42+05:30
 draft: false
 ---
 
-The notes is available in both *web view* and *pdf view* but I recommend using *pdf view*.
+The notes is available in both *web view* and *pdf view*. Since tables don't get rendered properly in HTML, I recommend using *pdf view*.
 
 Answer Sources:
 1. Computer Networks by James F. Kurose and Keith W. Ross
